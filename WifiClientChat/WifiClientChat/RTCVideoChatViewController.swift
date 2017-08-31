@@ -63,7 +63,24 @@ class RTCVideoChatViewController: UIViewController,RTCEAGLVideoViewDelegate,Webr
     NotificationCenter.default.addObserver(self, selector: #selector(RTCVideoChatViewController.orientationChanged(_:)), name: NSNotification.Name(rawValue: "UIDeviceOrientationDidChangeNotification"), object: nil)
     // Do any additional setup after loading the view.
 
+    let notificationCenter = NotificationCenter.default
+    notificationCenter.addObserver(self, selector: #selector(appMovedToBackground(notification:)), name: Notification.Name.UIApplicationWillResignActive, object: nil)
+    
   }
+    
+    func appMovedToBackground(notification: NSNotification) {
+        let state = UIApplication.shared.applicationState
+        if state == .inactive {
+            print("App in active")
+        }
+        
+        print("App moved to background!")
+        self.sendDisconnectToPeer()
+        self.disconnect()
+        self.serviceManager.stopAdvertising()
+        self.navigationController?.popToRootViewController(animated: true)
+        
+    }
   
   override func viewWillAppear(_ animated: Bool) {
     self.navigationController?.setNavigationBarHidden(true, animated: true)
