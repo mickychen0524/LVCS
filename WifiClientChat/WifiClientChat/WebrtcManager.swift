@@ -83,13 +83,8 @@ class WebrtcManager: NSObject,RTCPeerConnectionDelegate,RTCSessionDescriptionDel
     {
         let mandatoryConstrains:NSArray = [RTCPair.init(key: "maxFrameRate", value: "35")]
         _ = RTCMediaConstraints.init(mandatoryConstraints: mandatoryConstrains as! [Any], optionalConstraints: nil)
-        var cameraID: String?
-        for captureDevice in AVCaptureDevice.devices(withMediaType: AVMediaTypeVideo) {
-            // Support Front cam alone, as it's suitable for video conferencing
-            if (captureDevice as AnyObject).position == AVCaptureDevicePosition.front {
-                cameraID = (captureDevice as AnyObject).localizedName
-            }
-        }
+        
+        let cameraID = AVCaptureDevice.defaultDevice(withDeviceType: AVCaptureDeviceType.builtInWideAngleCamera, mediaType: AVMediaTypeVideo, position: AVCaptureDevicePosition.front)?.localizedName
         let videoCapturer = RTCVideoCapturer(deviceName: cameraID)
         self.videoCapturer = videoCapturer
         let videoSource = peerConnectionFactory?.videoSource(with: videoCapturer, constraints: nil)
@@ -100,13 +95,7 @@ class WebrtcManager: NSObject,RTCPeerConnectionDelegate,RTCSessionDescriptionDel
     
     func getBackVideo() -> RTCVideoTrack
     {
-        var cameraID: String?
-        for captureDevice in AVCaptureDevice.devices(withMediaType: AVMediaTypeVideo) {
-            // Support Front cam alone, as it's suitable for video conferencing
-            if (captureDevice as AnyObject).position == AVCaptureDevicePosition.back {
-                cameraID = (captureDevice as AnyObject).localizedName
-            }
-        }
+        let cameraID = AVCaptureDevice.defaultDevice(withDeviceType: AVCaptureDeviceType.builtInWideAngleCamera, mediaType: AVMediaTypeVideo, position: AVCaptureDevicePosition.back)?.localizedName
         let videoCapturer = RTCVideoCapturer(deviceName: cameraID)
         self.videoCapturer = videoCapturer
         let videoSource = peerConnectionFactory?.videoSource(with: videoCapturer, constraints: nil)
