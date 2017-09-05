@@ -14,7 +14,7 @@ class WaitingViewController: UIViewController{
 
     var isInitiator = false
     var peerListArray : [MCPeerID:DeviceModel] = [MCPeerID:DeviceModel]()
-    let bonjourService = ServiceManager.sharedServiceManager
+    let bonjourService = ServiceManager.getManager()
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -32,14 +32,13 @@ class WaitingViewController: UIViewController{
         if segue.destination.isKind(of: RTCVideoChatViewController.self){
             let destinationController:RTCVideoChatViewController = segue.destination as! RTCVideoChatViewController
             destinationController.isInitiator = unownedSelf.isInitiator
-            ServiceManager.sharedServiceManager.delegate = nil
+            bonjourService.delegate = nil
         }
     }
     
     func takeCall(_ caller : MCPeerID)
     {
         let unownedSelf = self
-        //let idx = peerListArray.index(of: caller)
         unownedSelf.bonjourService.stopAdvertising()
         unownedSelf.bonjourService.callRequest("callAccepted", index: caller)
         unownedSelf.isInitiator = false
@@ -67,13 +66,11 @@ extension WaitingViewController : ServiceManagerProtocol {
     }
     
     func receivedData(_ manager: ServiceManager, peerID: MCPeerID, responseString: String) {
-        let unownedSelf = self
         DispatchQueue.main.async {
             switch responseString {
             case ResponseValue.incomingCall.rawValue :
                 print("incomingCall")
                 self.takeCall(peerID)
-            //unownedSelf.showAlert(peerID)
             case ResponseValue.callAccepted.rawValue:
                 print("callAccepted")
                 self.startCallViewController()

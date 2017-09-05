@@ -10,7 +10,7 @@ import UIKit
 
 class HomeViewController: UIViewController {
 
-    let bonjourService = ServiceManager.sharedServiceManager
+    let bonjourService = ServiceManager.getManager()
     @IBOutlet weak var callButton: UIButton!
     
     override func viewDidLoad() {
@@ -19,7 +19,7 @@ class HomeViewController: UIViewController {
     }
 
     @IBAction func connectClerk(_ sender: Any) {
-        bonjourService.startAdvertising(uuid: UUID().uuidString)
+        bonjourService.startAdvertising(type: "client")
         let storyboard = UIStoryboard(name: "Main", bundle: nil)
         let viewController = storyboard.instantiateViewController(withIdentifier :"waitingController") as! WaitingViewController
         
@@ -28,7 +28,6 @@ class HomeViewController: UIViewController {
     
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
     }
     
 

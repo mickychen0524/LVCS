@@ -25,7 +25,7 @@
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#import "RTCICEServer.h"
+#import "FSDK.framework/Headers/RTCICEServer.h"
 
 @interface RTCICEServer (JSON)
 

@@ -25,7 +25,7 @@
  * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#import "RTCICECandidate.h"
+#import "FSDK.framework/Headers/RTCICECandidate.h"
 
 @interface RTCICECandidate (JSON)
 
