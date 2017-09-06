@@ -14,7 +14,7 @@ class WaitingViewController: UIViewController{
 
     var isInitiator = false
     var peerListArray : [MCPeerID:DeviceModel] = [MCPeerID:DeviceModel]()
-    let bonjourService = ServiceManager.getManager()
+    let bonjourService = ServiceManager.getManager(t: "client")
     
     override func viewDidLoad() {
         super.viewDidLoad()

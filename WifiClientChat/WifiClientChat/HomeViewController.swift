@@ -10,7 +10,7 @@ import UIKit
 
 class HomeViewController: UIViewController {
 
-    let bonjourService = ServiceManager.getManager()
+    let bonjourService = ServiceManager.getManager(t: "client")
     @IBOutlet weak var callButton: UIButton!
     
     override func viewDidLoad() {

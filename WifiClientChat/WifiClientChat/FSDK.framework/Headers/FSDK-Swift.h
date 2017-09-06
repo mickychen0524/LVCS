@@ -143,12 +143,12 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 SWIFT_CLASS("_TtC4FSDK14ServiceManager")
 @interface ServiceManager : NSObject
-- (nonnull instancetype)init SWIFT_UNAVAILABLE;
-+ (ServiceManager * _Nonnull)getManager SWIFT_WARN_UNUSED_RESULT;
++ (ServiceManager * _Nonnull)getManagerWithT:(NSString * _Nonnull)t SWIFT_WARN_UNUSED_RESULT;
 - (void)stopAdvertising;
 - (void)startAdvertisingWithType:(NSString * _Nonnull)type;
 - (void)callRequest:(NSString * _Nonnull)recipient index:(MCPeerID * _Nonnull)index;
 - (void)sendDataToSelectedPeer:(NSDictionary<NSString *, id> * _Nonnull)json;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
 @end
 
 @class MCNearbyServiceAdvertiser;

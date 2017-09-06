@@ -25,9 +25,9 @@
 		0D02F2A71F56F6A1009B3D36 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D02F2A61F56F6A1009B3D36 /* HomeViewController.swift */; };
 		0D5A0C7F1F5754D900E5F6AA /* WaitingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5A0C7E1F5754D900E5F6AA /* WaitingViewController.swift */; };
 		0D9866851F5ECAFF00600139 /* libWebRTC.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D02F2261F56E414009B3D36 /* libWebRTC.a */; };
-		0DE07A651F5F27D900C908AC /* FSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DE07A641F5F27D900C908AC /* FSDK.framework */; };
-		0DE07A661F5F27DD00C908AC /* FSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DE07A641F5F27D900C908AC /* FSDK.framework */; };
-		0DE07A671F5F27DD00C908AC /* FSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 0DE07A641F5F27D900C908AC /* FSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		0DF1E89B1F5FE21E004AE37E /* FSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DF1E89A1F5FE21E004AE37E /* FSDK.framework */; };
+		0DF1E89C1F5FE222004AE37E /* FSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DF1E89A1F5FE21E004AE37E /* FSDK.framework */; };
+		0DF1E89D1F5FE222004AE37E /* FSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 0DF1E89A1F5FE21E004AE37E /* FSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,7 +37,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				0DE07A671F5F27DD00C908AC /* FSDK.framework in Embed Frameworks */,
+				0DF1E89D1F5FE222004AE37E /* FSDK.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -69,7 +69,7 @@
 		0D02F2601F56E4AA009B3D36 /* libsqlite3.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.0.tbd; path = usr/lib/libsqlite3.0.tbd; sourceTree = SDKROOT; };
 		0D02F2A61F56F6A1009B3D36 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
 		0D5A0C7E1F5754D900E5F6AA /* WaitingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WaitingViewController.swift; sourceTree = "<group>"; };
-		0DE07A641F5F27D900C908AC /* FSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FSDK.framework; sourceTree = "<group>"; };
+		0DF1E89A1F5FE21E004AE37E /* FSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FSDK.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,12 +79,12 @@
 			files = (
 				0D02F2611F56E4AA009B3D36 /* libsqlite3.0.tbd in Frameworks */,
 				0D9866851F5ECAFF00600139 /* libWebRTC.a in Frameworks */,
-				0DE07A661F5F27DD00C908AC /* FSDK.framework in Frameworks */,
+				0DF1E89C1F5FE222004AE37E /* FSDK.framework in Frameworks */,
 				0D02F25F1F56E4A4009B3D36 /* VideoToolbox.framework in Frameworks */,
 				0D02F25D1F56E498009B3D36 /* CoreVideo.framework in Frameworks */,
 				0D02F25B1F56E493009B3D36 /* libc++.tbd in Frameworks */,
 				0D02F2591F56E472009B3D36 /* SystemConfiguration.framework in Frameworks */,
-				0DE07A651F5F27D900C908AC /* FSDK.framework in Frameworks */,
+				0DF1E89B1F5FE21E004AE37E /* FSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -182,7 +182,7 @@
 		0D98667F1F5ECA2800600139 /* Framework */ = {
 			isa = PBXGroup;
 			children = (
-				0DE07A641F5F27D900C908AC /* FSDK.framework */,
+				0DF1E89A1F5FE21E004AE37E /* FSDK.framework */,
 			);
 			name = Framework;
 			sourceTree = "<group>";

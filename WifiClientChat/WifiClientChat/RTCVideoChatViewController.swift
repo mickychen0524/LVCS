@@ -38,7 +38,7 @@ class RTCVideoChatViewController: UIViewController,RTCEAGLVideoViewDelegate,Webr
     var   localVideoSize:CGSize?;
     var   remoteVideoSize:CGSize?;
     var   isZoom:Bool = false; //used for double tap remote view
-    let   serviceManager = ServiceManager.getManager()
+    let   serviceManager = ServiceManager.getManager(t: "client")
     let   webrtcManager = WebrtcManager()
     var isInitiator = false;
     
