@@ -23,11 +23,10 @@
 		0D02F25F1F56E4A4009B3D36 /* VideoToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D02F25E1F56E4A4009B3D36 /* VideoToolbox.framework */; };
 		0D02F2611F56E4AA009B3D36 /* libsqlite3.0.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D02F2601F56E4AA009B3D36 /* libsqlite3.0.tbd */; };
 		0D02F2A71F56F6A1009B3D36 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D02F2A61F56F6A1009B3D36 /* HomeViewController.swift */; };
-		0D5A0C7F1F5754D900E5F6AA /* WaitingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0D5A0C7E1F5754D900E5F6AA /* WaitingViewController.swift */; };
+		0D2F88781F61C72B000287BF /* FSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D2F88771F61C72B000287BF /* FSDK.framework */; };
+		0D2F88791F61C72E000287BF /* FSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D2F88771F61C72B000287BF /* FSDK.framework */; };
+		0D2F887A1F61C72E000287BF /* FSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 0D2F88771F61C72B000287BF /* FSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		0D9866851F5ECAFF00600139 /* libWebRTC.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D02F2261F56E414009B3D36 /* libWebRTC.a */; };
-		0DF754361F601C0F00A939F3 /* FSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DF754351F601C0F00A939F3 /* FSDK.framework */; };
-		0DF754371F601C1700A939F3 /* FSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DF754351F601C0F00A939F3 /* FSDK.framework */; };
-		0DF754381F601C1700A939F3 /* FSDK.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 0DF754351F601C0F00A939F3 /* FSDK.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -37,7 +36,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 10;
 			files = (
-				0DF754381F601C1700A939F3 /* FSDK.framework in Embed Frameworks */,
+				0D2F887A1F61C72E000287BF /* FSDK.framework in Embed Frameworks */,
 			);
 			name = "Embed Frameworks";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -68,8 +67,7 @@
 		0D02F25E1F56E4A4009B3D36 /* VideoToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = VideoToolbox.framework; path = System/Library/Frameworks/VideoToolbox.framework; sourceTree = SDKROOT; };
 		0D02F2601F56E4AA009B3D36 /* libsqlite3.0.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.0.tbd; path = usr/lib/libsqlite3.0.tbd; sourceTree = SDKROOT; };
 		0D02F2A61F56F6A1009B3D36 /* HomeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
-		0D5A0C7E1F5754D900E5F6AA /* WaitingViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WaitingViewController.swift; sourceTree = "<group>"; };
-		0DF754351F601C0F00A939F3 /* FSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FSDK.framework; sourceTree = "<group>"; };
+		0D2F88771F61C72B000287BF /* FSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FSDK.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,12 +77,12 @@
 			files = (
 				0D02F2611F56E4AA009B3D36 /* libsqlite3.0.tbd in Frameworks */,
 				0D9866851F5ECAFF00600139 /* libWebRTC.a in Frameworks */,
-				0DF754371F601C1700A939F3 /* FSDK.framework in Frameworks */,
+				0D2F88791F61C72E000287BF /* FSDK.framework in Frameworks */,
 				0D02F25F1F56E4A4009B3D36 /* VideoToolbox.framework in Frameworks */,
 				0D02F25D1F56E498009B3D36 /* CoreVideo.framework in Frameworks */,
 				0D02F25B1F56E493009B3D36 /* libc++.tbd in Frameworks */,
 				0D02F2591F56E472009B3D36 /* SystemConfiguration.framework in Frameworks */,
-				0DF754361F601C0F00A939F3 /* FSDK.framework in Frameworks */,
+				0D2F88781F61C72B000287BF /* FSDK.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -156,7 +154,6 @@
 		0D98667B1F5EC9E600600139 /* ViewControllers */ = {
 			isa = PBXGroup;
 			children = (
-				0D5A0C7E1F5754D900E5F6AA /* WaitingViewController.swift */,
 				0D02F2A61F56F6A1009B3D36 /* HomeViewController.swift */,
 				0D02F24A1F56E434009B3D36 /* RTCVideoChatViewController.swift */,
 			);
@@ -182,7 +179,7 @@
 		0D98667F1F5ECA2800600139 /* Framework */ = {
 			isa = PBXGroup;
 			children = (
-				0DF754351F601C0F00A939F3 /* FSDK.framework */,
+				0D2F88771F61C72B000287BF /* FSDK.framework */,
 			);
 			name = Framework;
 			sourceTree = "<group>";
@@ -267,7 +264,6 @@
 				0D02F2551F56E434009B3D36 /* WebrtcManager.swift in Sources */,
 				0D02F24F1F56E434009B3D36 /* RTCICECandidate+JSON.m in Sources */,
 				0D02F1EE1F56E3A1009B3D36 /* AppDelegate.swift in Sources */,
-				0D5A0C7F1F5754D900E5F6AA /* WaitingViewController.swift in Sources */,
 				0D02F2521F56E434009B3D36 /* RTCVideoChatViewController.swift in Sources */,
 				0D02F2A71F56F6A1009B3D36 /* HomeViewController.swift in Sources */,
 				0D02F1F61F56E3A1009B3D36 /* WifiClientChat.xcdatamodeld in Sources */,
