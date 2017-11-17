@@ -1,0 +1,192 @@
+{
+    "correlationRefId":"DF5A711C-E084-4BD6-AEBC-0FFF8289C29F",
+    "createdOn":"2016-10-11T19:51:03.9686927+00:00",
+    "error":{
+        "message":null,
+        "code":null
+    },
+    "data":{
+        "games":[
+                 {
+                 "gameRefId":"AD81DD2A-6F24-4330-BFA3-2509892B7DFD",
+                 "gameName":"Game A",
+                 "logoUrl":"http://demo2lngmstr.blob.core.windows.net/media/vacash5logo.png",
+                 "logoHdUrl":"http://demo2lngmstr.blob.core.windows.net/media/vacash5logo.png",
+                 "panelPrices":[
+                                0.50,
+                                1.00
+                                ],
+                 "panelsMax":5
+                 },
+                 {
+                 "gameRefId":"DF1EB381-FDB1-4AAF-AF35-1C7FF7D9D227",
+                 "gameName":"Game B",
+                 "logoUrl":"http://demo2lngmstr.blob.core.windows.net/media/vapick3logo.png",
+                 "logoHdUrl":"http://demo2lngmstr.blob.core.windows.net/media/vapick3logo.png",
+                 "panelPrices":[
+                                0.50,
+                                1.00
+                                ],
+                 "panelsMax":5
+                 },
+                 {
+                 "gameRefId":"578C356F-095A-4126-97E1-FA19ABB143B1",
+                 "gameName":"Game B",
+                 "logoUrl":"http://demo2lngmstr.blob.core.windows.net/media/vapick4logo.png",
+                 "logoHdUrl":"http://demo2lngmstr.blob.core.windows.net/media/vapick4logo.png",
+                 "panelPrices":[
+                                0.50,
+                                1.00
+                                ],
+                 "panelsMax":5
+                 },
+                 {
+                 "gameRefId":"DCFC23BF-045B-43D4-B59E-5EAEF6BE71D2",
+                 "gameName":"Game B",
+                 "logoUrl":"http://demo2lngmstr.blob.core.windows.net/media/vacash4lifelogo.png",
+                 "logoHdUrl":"http://demo2lngmstr.blob.core.windows.net/media/vacash4lifelogo.png",
+                 "panelPrices":[
+                                0.50,
+                                1.00
+                                ],
+                 "panelsMax":5
+                 }
+                 ],
+        "brands":[
+                  {
+                  "brandRefId":"93FFB2FA-9DA3-4090-819A-BA102F0C2870",
+                  "brandName":"7 Eleven",
+                  "logoUrl":"http://demo2lngmstr.blob.core.windows.net/media/7elevenlogo.jpg",
+                  "logoHdUrl":"http://demo2lngmstr.blob.core.windows.net/media/7elevenlogo.jpg"
+                  },
+                  {
+                  "brandRefId":"9BA9365C-8EDC-4D39-ADDD-17775FBA953D",
+                  "brandName":"Monster Energy",
+                  "logoUrl":"http://demo2lngmstr.blob.core.windows.net/media/monsterlogo.png",
+                  "logoHdUrl":"http://demo2lngmstr.blob.core.windows.net/media/monsterlogo.png"
+                  },
+                  {
+                  "brandRefId":"8DDFFC47-5F25-4683-8AE8-D5BB0C6570FF",
+                  "brandName":"Red Bull",
+                  "logoUrl":"http://dev2lngmstr.blob.core.windows.net/media/redbulllogo.png",
+                  "logoHdUrl":"http://dev2lngmstr.blob.core.windows.net/media/redbulllogo.png"
+                  }
+                  ],
+        "channelGroups":[
+                         {
+                         "channelGroupRefId":"92273D13-5539-48BD-BAF4-76DD21F02513",
+                         "channelGroupName":"Channel Group A",
+                         "logoUrl":"",
+                         "logoHdUrl":"",
+                         "gameRefId":"AD81DD2A-6F24-4330-BFA3-2509892B7DFD",
+                         "brandRefId":"93FFB2FA-9DA3-4090-819A-BA102F0C2870",
+                         "channels":[
+                                     {
+                                     "channelRefId":"B05BE518-ED49-46D1-9410-F522C3ED3017",
+                                     "channelName":"Channel A",
+                                     "template":{
+                                     "templateRefId":"D6A69C40-5F51-4FAB-B105-AD2A3055E762",
+                                     "ticketTemplateType":11,
+                                     "tileAnimatedUrl":null,
+                                     "tileUrl":"http://dev2lngmstr.blob.core.windows.net/media/tilemonsterufcanimated.gif",
+                                     "logoUrl":"http://dev2lngmstr.blob.core.windows.net/media/tilemonsterufcanimated.gif",
+                                     "logoHdUrl":"http://dev2lngmstr.blob.core.windows.net/media/tilemonsterufcanimated.gif"
+                                     }
+                                     },
+                                     {
+                                     "channelRefId":"EAD17DAB-6509-4AE2-882E-B2575794E7A8",
+                                     "channelName":"Channel B",
+                                     "template":{
+                                     "templateRefId":"C3DE58D3-A94D-48B9-9B61-C229D96B3A70",
+                                     "ticketTemplateType":11,
+                                     "tileAnimatedUrl":null,
+                                     "tileUrl":"https://dev2lngmstr.blob.core.windows.net/media/tilemonsterufc.png",
+                                     "logoUrl":"https://dev2lngmstr.blob.core.windows.net/media/tilemonsterufc.png",
+                                     "logoHdUrl":"https://dev2lngmstr.blob.core.windows.net/media/tilemonsterufc.png"
+                                     }
+                                     }
+                                     ]
+                         },
+                         {
+                         "channelGroupRefId":"75665131-ED69-472C-8EE1-A6A9B672776C",
+                         "channelGroupName":"Channel Group B",
+                         "logoUrl":"",
+                         "logoHdUrl":"",
+                         "gameRefId":"DF1EB381-FDB1-4AAF-AF35-1C7FF7D9D227",
+                         "brandRefId":"9BA9365C-8EDC-4D39-ADDD-17775FBA953D",
+                         "channels":[
+                                     {
+                                     "channelRefId":"72341B98-C115-43B2-A1D0-939A8079D145",
+                                     "channelName":"UFC A",
+                                     "template":{
+                                     "templateRefId":"DC68E1A8-0ED7-41D0-9E16-EC29810E9494",
+                                     "ticketTemplateType":11,
+                                     "tileAnimatedUrl":"http://dev2lngmstr.blob.core.windows.net/media/tilemonsterufcanimated.gif",
+                                     "tileUrl":"https://dev2lngmstr.blob.core.windows.net/media/tilemonsterufc.png",
+                                     "logoUrl":"http://dev2lngmstr.blob.core.windows.net/media/tilemonsterufc.png",
+                                     "logoHdUrl":"http://dev2lngmstr.blob.core.windows.net/media/tilemonsterufc.png"
+                                     }
+                                     },
+                                     {
+                                     "channelRefId":"E7377BA1-3465-4963-9321-4EC9C4C59814",
+                                     "channelName":"UFC B",
+                                     "template":{
+                                     "templateRefId":"25128AB3-2CD1-4C9B-8501-37208BF6A9ED",
+                                     "ticketTemplateType":11,
+                                     "tileAnimatedUrl":" http://dev2lngmstr.blob.core.windows.net/media/tilemonsterufcanimated.gif ",
+                                     "tileUrl":"https://dev2lngmstr.blob.core.windows.net/media/tilemonsterufc.png",
+                                     "logoUrl":"http://dev2lngmstr.blob.core.windows.net/media/tilemonsterufcanimated.gif",
+                                     "logoHdUrl":"http://dev2lngmstr.blob.core.windows.net/media/tilemonsterufcanimated.gif"
+                                     }
+                                     },
+                                     {
+                                     "channelRefId":"6982E154-F4BE-4D34-8E2C-BE0DF4CE4444",
+                                     "channelName":"Channel B",
+                                     "template":{
+                                     "templateRefId":"236B405C-624F-461B-A686-F7169A62FC1A",
+                                     "ticketTemplateType":11,
+                                     "tileAnimatedUrl":"",
+                                     "tileUrl":"https://dev2lngmstr.blob.core.windows.net/media/tilemonsterufc.png",
+                                     "logoUrl":"http://dev2lngmstr.blob.core.windows.net/media/tilemonsterufc.png",
+                                     "logoHdUrl":"http://dev2lngmstr.blob.core.windows.net/media/tilemonsterufc.png"
+                                     }
+                                     }
+                                     ]
+                         },
+                         { 
+                         "channelGroupRefId":"CACE7CA4-F4A1-49D8-9CB8-C99D236E1EFC",
+                         "channelGroupName":"Channel Group C",
+                         "logoUrl":"",
+                         "logoHdUrl":"",
+                         "gameRefId":"578C356F-095A-4126-97E1-FA19ABB143B1",
+                         "brandRefId":"8DDFFC47-5F25-4683-8AE8-D5BB0C6570FF",
+                         "channels":[ 
+                                     { 
+                                     "channelRefId":"C6947DF0-4389-4F7A-A406-430383B0B5D8",
+                                     "channelName":"Storm Chaser",
+                                     "template":{ 
+                                     "templateRefId":"DB28CC88-8C7F-4480-BA32-DE459BC487BE",
+                                     "ticketTemplateType":11,
+                                     "tileAnimatedUrl":"https://dev2lngmstr.blob.core.windows.net/media/redbullstormchasertile.gif",
+                                     "tileUrl":"https://dev2lngmstr.blob.core.windows.net/media/redbullstormchaselogo.png",
+                                     "logoUrl":"http://demo2lngmstr.blob.core.windows.net/media/channeltilesample.png",
+                                     "logoHdUrl":"http://demo2lngmstr.blob.core.windows.net/media/channeltilehdsample.png"
+                                     }
+                                     },
+                                     { 
+                                     "channelRefId":"B77BFDD0-C7D3-4DE3-9B97-5EF6E09DA7F5",
+                                     "channelName":"Racing",
+                                     "template":{ 
+                                     "templateRefId":"BE7CB142-9278-4010-BF33-A67A95A31CCA",
+                                     "ticketTemplateType":11,
+                                     "tileAnimatedUrl":"http://dev2lngmstr.blob.core.windows.net/media/redbullonboardmaxverstappentile.gif",
+                                     "tileUrl":"http://dev2lngmstr.blob.core.windows.net/media/channeltilesample.png",
+                                     "logoUrl":"http://demo2lngmstr.blob.core.windows.net/media/channeltilesample.png",
+                                     "logoHdUrl":"http://demo2lngmstr.blob.core.windows.net/media/channeltilehdsample.png"
+                                     }
+                                     }
+                                     ]
+                         }
+                         ]
+    }
+}

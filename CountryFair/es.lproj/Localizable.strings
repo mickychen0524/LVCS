@@ -1,0 +1,200 @@
+/* 
+  Localizable.strings
+  CountryFair
+
+  Created by MyMac on 7/5/17.
+  Copyright © 2017 MyMac. All rights reserved.
+*/
+"Select Language" = "Seleccione el idioma";
+
+"Reset" = "Reiniciar";
+
+"Start" = "comienzo";
+
+"Pull to refresh" = "Tire para refrescar";
+
+"Alert!" = "Alerta!";
+
+"You can't use this function yet. \n One minute please." = "No se puede utilizar esta función todavía. \n Un minuto por favor.";
+
+"Loading..." = "Loading...";
+
+"I certify that I am the age I have indicated below" = "Certifico que soy la edad que yo he indicado abajo";
+
+"Certify Age" = "Certificar Edad";
+
+"Cancel" = "Cancelar";
+
+"Insert Birth date" = "Introduzca la fecha de nacimiento";
+
+"Would you like to take a selfie to put on your item?" = "¿Le gustaría tener una autofoto para poner en su billete?";
+
+"Take Selfie" = "Tome selfie";
+
+"No Thanks" = "No, gracias";
+
+"Choose selfie" = "Elija autofoto";
+
+"Please choose birthdate" = "Por favor seleccione su fecha de nacimiento";
+
+"Channel View Help Overlay" = "Ver canal Ayuda Superposición";
+
+"Shopping Cart View Help Overlay" = "Ver Cesta de la compra Ayuda Superposición";
+
+"Add to Cart View Help Overlay" = "Añadir a la cesta Ver Ayuda Superposición";
+
+"Started..." = "Iniciado ...";
+
+"Download complete" = "Descarga completa";
+
+"ticket error" = "Error de ticket";
+
+"Downloading..." = "Descargando ...";
+
+"Saving..." = "Ahorro ...";
+
+"Release to refresh" = "Liberar para actualizar";
+
+"Oops! No Draws! \n Try again in a few minutes." = "¡Vaya, no dibuja! \n Vuelve a intentarlo en unos minutos.";
+
+"Warning!" = "¡Advertencia!";
+
+"Draw   " = "Dibujar   ";
+
+"Play Amount $" = "Cantidad del juego $";
+
+"Number Of Plays " = "Número de reproducciones";
+
+"Total $" = "Total $";
+
+"Add to Cart" = "Añadir al carrito";
+
+"get draw list error." = "Obtener el error de la lista de dibujo.";
+
+"Please reload the table view." = "Vuelve a cargar la vista de tabla.";
+
+"Error" = "Error";
+
+"BLE data upload error" = "Error de carga de datos BLE";
+
+"OK" = "Aceptar";
+
+"Oops! You don't have any tickets to view." = "Ud. No tiene entradas para ver.";
+
+"Add items to your shopping cart!" = "¡Agregue artículos a su carro de compras!";
+
+"Oops! Our services are not responding, try back later." = "¡Nuestros servicios no responden, vuelve a intentarlo más tarde.";
+
+"null" = "Null";
+
+"unknown" = "Desconocido";
+
+"far" = "Lejos";
+
+"near" = "Cerca";
+
+"immediate" = "Inmediato";
+
+"Registering..." = "Registrando ...";
+
+"Oops Register failed. \n Please restart after exit." = "Se ha producido un error en el registro. \n Por favor reinicie después de salir.";
+
+"Push Notification Registered" = "Notificación de empuje registrada";
+
+"We have downloaded this image to you Photos folder... \n\n Share online to earn FREE tickets and rewards!" = "Hemos descargado esta imagen en tu carpeta de fotos ... \n\n ¡Comparte online para ganar entradas y premios GRATIS!";
+
+"Getting error" = "Obtención de error";
+
+"Post to Facebook now" = "Publicar en Facebook ahora";
+
+"INVALID SELFIE" = "SELFIE INVÁLIDA";
+
+"INVALID SCAN" = "INVALID SCAN";
+
+"Switch Language" = "Cambiar idioma";
+
+"Using real data..." = "Uso de datos reales ...";
+
+"Using demo data..." = "Utilización de datos de demostración ...";
+
+"Deleted!" = "¡Deleted!";
+
+"Your all cached files was deleted." = "Se han eliminado todos los archivos en caché.";
+
+"There is no any checkout data." = "No hay datos de pago.";
+
+"Oops! We seem to be having a problem connecting.\n Please try again later." = "Parece que tenemos un problema de conexión. \n Por favor, inténtelo de nuevo más tarde. ";
+
+"Generating..." = "Generando ...";
+
+"Creating..." = "Creando ...";
+
+"Cancelled!" = "¡Cancelado!";
+
+"Your checkout was cancelled" = "Su pago ha sido cancelado";
+
+"Oops! Cancel failed. Try again?" = "¿Ha fallado la cancelación, intente de nuevo?";
+
+"No Thanks" = "No gracias";
+
+"Try Again" = "Intenta de nuevo";
+
+"Checkout completed. Creating item(s)..." = "Finalización de la compra. Creación de entrada(s) ...";
+
+"OK, We've recorded your transaction and are creating your Item(s)!" = "OK, hemos grabado su transacción y estamos creando su Ticket (s)!";
+
+"Item(s) created. Generating item(s)..." = "Ticket (s) creado (s) Generating ticket (s) ...";
+
+"Connecting..." = "Conectando ...";
+
+"Connection succeeded!" = "La conexión tuvo éxito!";
+
+"Oops! Our services are not responding, \n try back later." = "¡Nuestros servicios no responden, \n vuelva a intentarlo más tarde.";
+
+"Refund ID" = "ID de reembolso";
+
+"OK, Show this code to your cashier" = "OK, muestra este código a tu cajero";
+
+"Ticket Refund View Help Overlay" = "Reembolso de boletos Ver ayuda superpuesta";
+
+"This ticket has no awards!" = "¡Este boleto no tiene premios!";
+
+"Oops! You have unclaimed awards! Please Claim Ticket." = "¡Vaya! Usted tiene premios no reclamados! Por favor, reclame el boleto.";
+
+"We have confirmed you have no awards on this Ticket, are you sure you want to delete it? You will not be able to recover it." = "Hemos confirmado que no tiene ningún premio en este boleto, ¿está seguro de que desea eliminarlo? No podrá recuperarla.";
+
+"No winners." = "No hay ganadores.";
+
+"Oops! Some Draws have not completed yet! Try back after they are completed." = "¡Vaya! Parece que tenemos un problema de conexión. \ N Vuelve a intentarlo más tarde.";
+
+"Oops! We seem to be having a problem connecting. \n Please try again later." = "Parece que tenemos un problema de conexión. \n Por favor, inténtelo de nuevo más tarde. ";
+
+"Born On:" = "Nacido el";
+
+"PIN is enabled" = "PIN activado";
+
+"PIN is NOT enabled" = "El PIN no está habilitado";
+
+"Oops! PIN/Pwd must match" = "Oops! PIN / Pwd debe coincidir";
+
+"Power running mode" = "Modo de funcionamiento en marcha";
+
+"Power saving mode" = "Modo de ahorro de energía";
+
+"Include selfie on ticket?" = "-¿Incluye selfie en el ticket?";
+
+"Developer settings >" = "Configuración del desarrollador >";
+
+"Claim error" = "Error de reclamación";
+
+"Agree To Terms:" = "Acepto los términos:";
+
+"Nope" = "Nope";
+
+"Done!" = "¡Hecho!";
+
+"We have saved this card to your photos folder. The code is your cash value so please redeem it now." = "Hemos guardado esta tarjeta en tu carpeta de fotos, el código es tu valor en efectivo, por lo que debes canjearlo ahora.";
+
+"Updated the Endpoint!" = "¡Actualizó el Endpoint!";
+
+"Please restart the app now." = "Reinicia la aplicación ahora.";

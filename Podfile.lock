@@ -1,0 +1,219 @@
+PODS:
+  - AFNetworking (2.6.3):
+    - AFNetworking/NSURLConnection (= 2.6.3)
+    - AFNetworking/NSURLSession (= 2.6.3)
+    - AFNetworking/Reachability (= 2.6.3)
+    - AFNetworking/Security (= 2.6.3)
+    - AFNetworking/Serialization (= 2.6.3)
+    - AFNetworking/UIKit (= 2.6.3)
+  - AFNetworking/NSURLConnection (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.3):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.3)
+  - AFNetworking/Security (2.6.3)
+  - AFNetworking/Serialization (2.6.3)
+  - AFNetworking/UIKit (2.6.3):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - Alamofire (4.5.1)
+  - BlinkReceipt (1.2.4):
+    - AFNetworking (~> 2.0)
+    - GPUImage (~> 0.1)
+    - libextobjc (~> 0.4)
+    - MBProgressHUD
+    - SimpleKeychain (~> 0.7)
+  - Charts (3.0.4):
+    - Charts/Core (= 3.0.4)
+  - Charts/Core (3.0.4)
+  - Cosmos (12.0.1)
+  - Crashlytics (3.9.0):
+    - Fabric (~> 1.7.0)
+  - DatePickerDialog (2.0)
+  - DropDown (2)
+  - EVURLCache (3.3.1)
+  - Fabric (1.7.0)
+  - GoogleMaps (2.4.0):
+    - GoogleMaps/Maps (= 2.4.0)
+  - GoogleMaps/Base (2.4.0)
+  - GoogleMaps/Maps (2.4.0):
+    - GoogleMaps/Base
+  - GPUImage (0.1.7)
+  - GzipSwift (4.0.0)
+  - HockeySDK/AllFeaturesLib (5.0.0)
+  - JSQMessagesViewController (7.3.5):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - KDCircularProgress (1.5.2)
+  - Kingfisher (4.1.0)
+  - KMPlaceholderTextView (1.3.0)
+  - libextobjc (0.4.1):
+    - libextobjc/EXTADT (= 0.4.1)
+    - libextobjc/EXTConcreteProtocol (= 0.4.1)
+    - libextobjc/EXTKeyPathCoding (= 0.4.1)
+    - libextobjc/EXTNil (= 0.4.1)
+    - libextobjc/EXTSafeCategory (= 0.4.1)
+    - libextobjc/EXTScope (= 0.4.1)
+    - libextobjc/EXTSelectorChecking (= 0.4.1)
+    - libextobjc/EXTSynthesize (= 0.4.1)
+    - libextobjc/NSInvocation+EXT (= 0.4.1)
+    - libextobjc/NSMethodSignature+EXT (= 0.4.1)
+    - libextobjc/RuntimeExtensions (= 0.4.1)
+    - libextobjc/UmbrellaHeader (= 0.4.1)
+  - libextobjc/EXTADT (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTConcreteProtocol (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTKeyPathCoding (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTNil (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSafeCategory (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTScope (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSelectorChecking (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/EXTSynthesize (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/NSInvocation+EXT (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/NSMethodSignature+EXT (0.4.1):
+    - libextobjc/RuntimeExtensions
+  - libextobjc/RuntimeExtensions (0.4.1)
+  - libextobjc/UmbrellaHeader (0.4.1)
+  - Localize-Swift (2.0.0)
+  - MBProgressHUD (1.0.0)
+  - MGSwipeTableCell (1.6.1)
+  - QRCode (2.0)
+  - Refresher (0.7.0)
+  - SCLAlertView (0.7.0)
+  - SimpleKeychain (0.8.0)
+  - Starscream (3.0.2)
+  - SwiftGifOrigin (1.6.1)
+  - SwiftValidator (4.0.0)
+  - SwiftyJSON (3.1.4)
+  - Toast-Swift (2.0.0)
+  - ZBarSDK (1.3.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - BlinkReceipt (~> 1.0)
+  - Charts
+  - Cosmos (~> 12.0)
+  - Crashlytics
+  - DatePickerDialog (from `https://github.com/squimer/DatePickerDialog-iOS-Swift.git`, branch `master`)
+  - DropDown (from `https://github.com/nahuelDeveloper/DropDown.git`, branch `master`)
+  - EVURLCache
+  - GoogleMaps
+  - GzipSwift (from `https://github.com/1024jp/GzipSwift.git`, branch `master`)
+  - HockeySDK/AllFeaturesLib
+  - JSQMessagesViewController
+  - KDCircularProgress (from `https://github.com/kaandedeoglu/KDCircularProgress.git`, branch `master`)
+  - Kingfisher (~> 4.0)
+  - KMPlaceholderTextView (~> 1.3.0)
+  - Localize-Swift
+  - MGSwipeTableCell
+  - QRCode (from `https://github.com/aschuch/QRCode.git`, branch `master`)
+  - Refresher
+  - SCLAlertView (from `https://github.com/ahmedsafadii/SCLAlertView-Swift.git`)
+  - Starscream (~> 3.0.0)
+  - SwiftGifOrigin (~> 1.6.1)
+  - SwiftValidator (from `https://github.com/jpotts18/SwiftValidator.git`, branch `master`)
+  - SwiftyJSON
+  - Toast-Swift (from `https://github.com/scalessec/Toast-Swift.git`, branch `feature/Swift-4`)
+  - ZBarSDK (~> 1.3)
+
+EXTERNAL SOURCES:
+  DatePickerDialog:
+    :branch: master
+    :git: https://github.com/squimer/DatePickerDialog-iOS-Swift.git
+  DropDown:
+    :branch: master
+    :git: https://github.com/nahuelDeveloper/DropDown.git
+  GzipSwift:
+    :branch: master
+    :git: https://github.com/1024jp/GzipSwift.git
+  KDCircularProgress:
+    :branch: master
+    :git: https://github.com/kaandedeoglu/KDCircularProgress.git
+  QRCode:
+    :branch: master
+    :git: https://github.com/aschuch/QRCode.git
+  SCLAlertView:
+    :git: https://github.com/ahmedsafadii/SCLAlertView-Swift.git
+  SwiftValidator:
+    :branch: master
+    :git: https://github.com/jpotts18/SwiftValidator.git
+  Toast-Swift:
+    :branch: feature/Swift-4
+    :git: https://github.com/scalessec/Toast-Swift.git
+
+CHECKOUT OPTIONS:
+  DatePickerDialog:
+    :commit: be4284f0d68e61c92ca47aa6ebb26b7adeb71fb1
+    :git: https://github.com/squimer/DatePickerDialog-iOS-Swift.git
+  DropDown:
+    :commit: 578fa2e8bd4e6be2214e0eafae4a946af360d2fc
+    :git: https://github.com/nahuelDeveloper/DropDown.git
+  GzipSwift:
+    :commit: 8a4940a19c39c7624854ec73951a8dd96c92d650
+    :git: https://github.com/1024jp/GzipSwift.git
+  KDCircularProgress:
+    :commit: ba525189fb2dd2b3e0ebbd8ccac77bf2e5915739
+    :git: https://github.com/kaandedeoglu/KDCircularProgress.git
+  QRCode:
+    :commit: 601af09fa394da662753a1d0bdfeb7d11e54e7e7
+    :git: https://github.com/aschuch/QRCode.git
+  SCLAlertView:
+    :commit: 90826ee643e319375aadd6415aaa0e8fce643766
+    :git: https://github.com/ahmedsafadii/SCLAlertView-Swift.git
+  SwiftValidator:
+    :commit: 6cff6cac3e02a617f7cf11323e18526a117d5673
+    :git: https://github.com/jpotts18/SwiftValidator.git
+  Toast-Swift:
+    :commit: 4a719a66b0e1f682fdb3c0a348c6988926fe4501
+    :git: https://github.com/scalessec/Toast-Swift.git
+
+SPEC CHECKSUMS:
+  AFNetworking: cb8d14a848e831097108418f5d49217339d4eb60
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  BlinkReceipt: b780ad73589bc7f5e2f23de6df8977b0d2339f9f
+  Charts: 0705898046257443f0afbbc3179f4b67507b6e48
+  Cosmos: 4a9f57998a08788a1062c7b8eefbc62d2b590f39
+  Crashlytics: 64aad5dd97249dd3ff94b979fea140144590cdd3
+  DatePickerDialog: 18b12e3aba09b28dc6146bdf8573a9834d8ea2ab
+  DropDown: 744784d9c9aa505100e942c16acd05430cbb2f0a
+  EVURLCache: 53d7a1e9ee695c03683f16432cb583b841cdcdf4
+  Fabric: e6be012366472553807dada21243c5ab8d904151
+  GoogleMaps: 8436ab5d1c25e36915b2f7416d0c8e3fa2e76c61
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  GzipSwift: 616c07f4370200e7380766e19ecb15c45ea2ae6e
+  HockeySDK: 82bf8dcbe1af3c87c24dc98924fcf2e2ba5be8c4
+  JSQMessagesViewController: 6587f56aedbcb150a8ba1d968e1ef58b1bc758b7
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  KDCircularProgress: 12f677b2deb02409ab48c6cae1898d146b8ad549
+  Kingfisher: f14df8cbe576bf55f211fa589e9869bceb4ea87d
+  KMPlaceholderTextView: 2bbcd19a273648a80a61e1e48f9743a24d8930e3
+  libextobjc: a650fc1bf489a3d3a9bc2e621efa3e1006fc5471
+  Localize-Swift: c798ec9286494866f7068f85f7c71283ac5bdab4
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MGSwipeTableCell: 19a1d65dcc1ceaea42eb44bb2adae32101904514
+  QRCode: 282441d0cfe8c4c1766b7578361fe93f72757685
+  Refresher: a72fdd35f0e1854d787eb5eb6853dd3f6d81c1e5
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SimpleKeychain: 84c748463eec601dfee5e7990f55cc82edc5488d
+  Starscream: b512c62f6706421221b5ceb2ba01a9f58aca5bea
+  SwiftGifOrigin: d6679d3ebe9df2e049a84bc52582635107b581f6
+  SwiftValidator: 25ded5ca1f10c05adf57f6ac82a72d28ac8d91af
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  Toast-Swift: 5b2f8f720f7e78e48511f693df1f9c9a6e38a25a
+  ZBarSDK: 4c1b5daeb7d6cc67dc9355e690af0230a661f6ec
+
+PODFILE CHECKSUM: 988a46b6b998cf178c6c48a575e8f4f4e3245f06
+
+COCOAPODS: 1.3.1

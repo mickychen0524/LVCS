@@ -1,0 +1,200 @@
+/* 
+  Localizable.strings
+  CountryFair
+
+  Created by MyMac on 7/5/17.
+  Copyright © 2017 MyMac. All rights reserved.
+*/
+"Select Language" = "Select Language";
+
+"Reset" = "Reset";
+
+"Start" = "Start";
+
+"Pull to refresh" = "Pull to refresh";
+
+"Alert!" = "Alert!";
+
+"You can't use this function yet. \n One minute please." = "You can't use this function yet. \n One minute please.";
+
+"Loading..." = "Loading...";
+
+"I certify that I am the age I have indicated below" = "I certify that I am the age I have indicated below";
+
+"Certify Age" = "Certify Age";
+
+"Cancel" = "Cancel";
+
+"Insert Birth date" = "Insert Birth date";
+
+"Would you like to take a selfie to put on your item?" = "Would you like to take a selfie to put on your item?";
+
+"Take Selfie" = "Take Selfie";
+
+"No Thanks" = "No Thanks";
+
+"Choose selfie" = "Choose selfie";
+
+"Please choose birthdate" = "Please choose birthdate";
+
+"Channel View Help Overlay" = "Channel View Help Overlay";
+
+"Shopping Cart View Help Overlay" = "Shopping Cart View Help Overlay";
+
+"Add to Cart View Help Overlay" = "Add to Cart View Help Overlay";
+
+"Started..." = "Started...";
+
+"Download complete" = "Download complete";
+
+"ticket error" = "ticket error";
+
+"Downloading..." = "Downloading...";
+
+"Saving..." = "Saving...";
+
+"Release to refresh" = "Release to refresh";
+
+"Oops! No Draws! \n Try again in a few minutes." = "Oops! No Draws! \n Try again in a few minutes.";
+
+"Warning!" = "Warning!";
+
+"Draw   " = "Draw   ";
+
+"Play Amount $" = "Play Amount $";
+
+"Number Of Plays " = "Number Of Plays ";
+
+"Total $" = "Total $";
+
+"Add to Cart" = "Add to Cart";
+
+"get draw list error." = "get draw list error.";
+
+"Please reload the table view." = "Please reload the table view.";
+
+"Error" = "Error";
+
+"BLE data upload error" = "BLE data upload error";
+
+"OK" = "OK";
+
+"Oops! You don't have any tickets to view." = "Oops! You don't have any tickets to view.";
+
+"Add items to your shopping cart!" = "Add items to your shopping cart!";
+
+"Oops! Our services are not responding, try back later." = "Oops! Our services are not responding, try back later.";
+
+"null" = "null";
+
+"unknown" = "unknown";
+
+"far" = "far";
+
+"near" = "near";
+
+"immediate" = "immediate";
+
+"Registering..." = "Registering...";
+
+"Oops Register failed. \n Please restart after exit." = "Oops Register failed. \n Please restart after exit.";
+
+"Push Notification Registered" = "Push Notification Registered";
+
+"We have downloaded this image to you Photos folder... \n\n Share online to earn FREE tickets and rewards!" = "We have downloaded this image to you Photos folder... \n\n Share online to earn FREE tickets and rewards!";
+
+"Getting error" = "Getting error";
+
+"Post to Facebook now" = "Post to Facebook now";
+
+"INVALID SELFIE" = "INVALID SELFIE";
+
+"INVALID SCAN" = "INVALID SCAN";
+
+"Switch Language" = "Switch Language";
+
+"Using real data..." = "Using real data...";
+
+"Using demo data..." = "Using demo data...";
+
+"Deleted!" = "Deleted!";
+
+"Your all cached files was deleted." = "Your all cached files was deleted.";
+
+"There is no any checkout data." = "There is no any checkout data.";
+
+"Oops! We seem to be having a problem connecting.\n Please try again later." = "Oops! We seem to be having a problem connecting.\n Please try again later.";
+
+"Generating..." = "Generating...";
+
+"Creating..." = "Creating...";
+
+"Cancelled!" = "Cancelled!";
+
+"Your checkout was cancelled" = "Your checkout was cancelled";
+
+"Oops! Cancel failed. Try again?" = "Oops! Cancel failed. Try again?";
+
+"No Thanks" = "No Thanks";
+
+"Try Again" = "Try Again";
+
+"Checkout completed. Creating item(s)..." = "Checkout completed. Creating item(s)...";
+
+"OK, We've recorded your transaction and are creating your Item(s)!" = "OK, We've recorded your transaction and are creating your Item(s)!";
+
+"Item(s) created. Generating item(s)..." = "Item(s) created. Generating item(s)...";
+
+"Connecting..." = "Connecting...";
+
+"Connection succeeded!" = "Connection succeeded!";
+
+"Oops! Our services are not responding, \n try back later." = "Oops! Our services are not responding, \n try back later.";
+
+"Refund ID" = "Refund ID";
+
+"OK, Show this code to your cashier" = "OK, Show this code to your cashier";
+
+"Ticket Refund View Help Overlay" = "Ticket Refund View Help Overlay";
+
+"This ticket has no awards!" = "This ticket has no awards!";
+
+"Oops! You have unclaimed awards! Please Claim Ticket." = "Oops! You have unclaimed awards! Please Claim Ticket.";
+
+"We have confirmed you have no awards on this Ticket, are you sure you want to delete it? You will not be able to recover it." = "We have confirmed you have no awards on this Ticket, are you sure you want to delete it? You will not be able to recover it.";
+
+"No winners." = "No winners.";
+
+"Oops! Some Draws have not completed yet! Try back after they are completed." = "Oops! Some Draws have not completed yet! Try back after they are completed.";
+
+"Oops! We seem to be having a problem connecting. \n Please try again later." = "Oops! We seem to be having a problem connecting. \n Please try again later.";
+
+"Born On:" = "Born On:";
+
+"PIN is enabled" = "PIN is enabled";
+
+"PIN is NOT enabled" = "PIN is NOT enabled";
+
+"Oops! PIN/Pwd must match" = "Oops! PIN/Pwd must match";
+
+"Power running mode" = "Power running mode";
+
+"Power saving mode" = "Power saving mode";
+
+"Include selfie on ticket?" = "Include selfie on ticket?";
+
+"Developer settings >" = "Developer settings >";
+
+"Claim error" = "Claim error";
+
+"Agree To Terms:" = "Agree To Terms:";
+
+"Nope" = "Nope";
+
+"Done!" = "Done!";
+
+"We have saved this card to your photos folder. The code is your cash value so please redeem it now." = "We have saved this card to your photos folder. The code is your cash value so please redeem it now.";
+
+"Updated the Endpoint!" = "Updated the Endpoint!";
+
+"Please restart the app now." = "Please restart the app now.";

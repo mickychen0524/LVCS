@@ -1,0 +1,34 @@
+ [
+  {
+  "drawRefId": "d8216347-5c91-4d28-847c-b926cf1d61ca",
+  "gameName": null,
+  "validatedComponents": null,
+  "validatedData": null,
+  "assemblyDataRefId": null,
+  "claimsExpireOn": "2017-10-14T19:00:00-04:00",
+  "closedOn": null,
+  "closeScheduledOn": "2016-10-15T19:00:00-04:00",
+  "drawName": "Draw 1a4e",
+  "openOn": "2016-10-14T19:00:00-04:00",
+  "dataStreams": null,
+  "prizesEstimated": [
+                      {
+                      "countAtClose": 0,
+                      "amountAtClose": 0.0,
+                      "amountAtOpen": "10,000",
+                      "availableCount": 1,
+                      "availableCountAsOf": "2016-10-13T21:01:58.6042271-04:00",
+                      "claimLocationType": 4,
+                      "countAtOpen": 1,
+                      "name": null,
+                      "oddsOneInAtOpen": 2550,
+                      "prizeDescription": "Grand Prize",
+                      "prizeRefId": "24c92e66-1de6-44f0-909c-f659549ac055",
+                      "sortOrder": 0
+                      }
+                      ],
+  "prizesFinal": [
+  
+  ]
+  }
+  ]

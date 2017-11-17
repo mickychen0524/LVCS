@@ -1,0 +1,189 @@
+
+/* Class = "UILabel"; text = "$50.00"; ObjectID = "1CW-9G-vAu"; */
+"1CW-9G-vAu.text" = "$50.00";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "1WM-9F-YVI"; */
+"1WM-9F-YVI.title" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Can we save photos?"; ObjectID = "1mZ-xM-66M"; */
+"1mZ-xM-66M.normalTitle" = "Can we save photos?";
+
+/* Class = "UILabel"; text = "   Chat"; ObjectID = "1xy-hG-4wN"; */
+"1xy-hG-4wN.text" = "   Chat";
+
+/* Class = "UILabel"; text = "   Tutorial"; ObjectID = "3IH-qp-XRQ"; */
+"3IH-qp-XRQ.text" = "   Tutorial";
+
+/* Class = "UILabel"; text = "Total : $2.00"; ObjectID = "57J-nI-Q2K"; */
+"57J-nI-Q2K.text" = "Total : $2.00";
+
+/* Class = "UIButton"; normalTitle = "Can we know where you are?"; ObjectID = "879-DL-1ad"; */
+"879-DL-1ad.normalTitle" = "Can we know where you are?";
+
+/* Class = "UILabel"; text = "You will see this message when clicking the button below. Choose OK."; ObjectID = "8IY-UD-0SK"; */
+"8IY-UD-0SK.text" = "You will see this message when clicking the button below. Choose OK.";
+
+/* Class = "UILabel"; text = "Present this to your authorized retail location to claim your "; ObjectID = "8ZI-1F-50c"; */
+"8ZI-1F-50c.text" = "Present this to your authorized retail location to claim your ";
+
+/* Class = "UILabel"; text = "You will see this message when clicking the button below. Choose OK."; ObjectID = "9G1-Xy-IKb"; */
+"9G1-Xy-IKb.text" = "You will see this message when clicking the button below. Choose OK.";
+
+/* Class = "UILabel"; text = "Downloading..."; ObjectID = "AIa-oI-s9f"; */
+"AIa-oI-s9f.text" = "Downloading...";
+
+/* Class = "UIButton"; normalTitle = "No Thanks!"; ObjectID = "Ay8-Tt-OmE"; */
+"Ay8-Tt-OmE.normalTitle" = "No Thanks!";
+
+/* Class = "UILabel"; text = "Tile Sample"; ObjectID = "BAH-F4-98s"; */
+"BAH-F4-98s.text" = "Tile Sample";
+
+/* Class = "UILabel"; text = "12"; ObjectID = "D8q-N7-xDK"; */
+"D8q-N7-xDK.text" = "12";
+
+/* Class = "UILabel"; text = "   My Tickets"; ObjectID = "FiJ-2i-P2U"; */
+"FiJ-2i-P2U.text" = "   My Tickets";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "GV9-ec-zfY"; */
+"GV9-ec-zfY.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Downloading..."; ObjectID = "Gav-Mj-rSh"; */
+"Gav-Mj-rSh.text" = "Downloading...";
+
+/* Class = "UILabel"; text = "Walmart Gift Card"; ObjectID = "GmW-M0-jhM"; */
+"GmW-M0-jhM.text" = "Walmart Gift Card";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "HLQ-3F-ZIO"; */
+"HLQ-3F-ZIO.text" = "OR";
+
+/* Class = "UILabel"; text = "Amount :"; ObjectID = "IEV-hZ-Zyq"; */
+"IEV-hZ-Zyq.text" = "Amount :";
+
+/* Class = "UIButton"; normalTitle = "Gift Cards"; ObjectID = "IXg-aJ-uBj"; */
+"IXg-aJ-uBj.normalTitle" = "Gift Cards";
+
+/* Class = "UILabel"; text = "Simulate Checkout"; ObjectID = "K1E-TH-c3W"; */
+"K1E-TH-c3W.text" = "Simulate Checkout";
+
+/* Class = "UISegmentedControl"; K3x-cz-ver.segmentTitles[0] = "All"; ObjectID = "K3x-cz-ver"; */
+"K3x-cz-ver.segmentTitles[0]" = "All";
+
+/* Class = "UISegmentedControl"; K3x-cz-ver.segmentTitles[1] = "Recent"; ObjectID = "K3x-cz-ver"; */
+"K3x-cz-ver.segmentTitles[1]" = "Recent";
+
+/* Class = "UISegmentedControl"; Le1-Fi-JcJ.segmentTitles[0] = "Coupons"; ObjectID = "Le1-Fi-JcJ"; */
+"Le1-Fi-JcJ.segmentTitles[0]" = "Coupons";
+
+/* Class = "UISegmentedControl"; Le1-Fi-JcJ.segmentTitles[1] = "Gift Cards"; ObjectID = "Le1-Fi-JcJ"; */
+"Le1-Fi-JcJ.segmentTitles[1]" = "Gift Cards";
+
+/* Class = "UILabel"; text = "Game Play View"; ObjectID = "LoH-il-hvU"; */
+"LoH-il-hvU.text" = "Game Play View";
+
+/* Class = "UINavigationItem"; title = "Main"; ObjectID = "Lth-Cd-e2j"; */
+"Lth-Cd-e2j.title" = "Main";
+
+/* Class = "UILabel"; text = "$50.00 Award!"; ObjectID = "MVJ-Wq-gal"; */
+"MVJ-Wq-gal.text" = "$50.00 Award!";
+
+/* Class = "UILabel"; text = "$0.00"; ObjectID = "NDp-q4-Uzi"; */
+"NDp-q4-Uzi.text" = "$0.00";
+
+/* Class = "UIButton"; normalTitle = "-"; ObjectID = "NIJ-wU-6QF"; */
+"NIJ-wU-6QF.normalTitle" = "-";
+
+/* Class = "UILabel"; text = "Plays"; ObjectID = "O46-qs-O6z"; */
+"O46-qs-O6z.text" = "Plays";
+
+/* Class = "UIButton"; normalTitle = "<  Back"; ObjectID = "PPL-2j-lqB"; */
+"PPL-2j-lqB.normalTitle" = "<  Back";
+
+/* Class = "UILabel"; text = "You will see this message when clicking the button below. Choose OK."; ObjectID = "QFJ-pl-B5E"; */
+"QFJ-pl-B5E.text" = "You will see this message when clicking the button below. Choose OK.";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Qas-7J-O1h"; */
+"Qas-7J-O1h.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "BUY NOW!"; ObjectID = "Qkv-SK-oTh"; */
+"Qkv-SK-oTh.normalTitle" = "BUY NOW!";
+
+/* Class = "UILabel"; text = "NOW!"; ObjectID = "RIk-ca-2Zu"; */
+"RIk-ca-2Zu.text" = "NOW!";
+
+/* Class = "UILabel"; text = "Did a friend have you download our app?"; ObjectID = "Tjg-Wd-cyb"; */
+"Tjg-Wd-cyb.text" = "Did a friend have you download our app?";
+
+/* Class = "UILabel"; text = "37.05"; ObjectID = "XRP-mO-01a"; */
+"XRP-mO-01a.text" = "37.05";
+
+/* Class = "UIButton"; normalTitle = "Coupons"; ObjectID = "Y4S-Ia-0ZK"; */
+"Y4S-Ia-0ZK.normalTitle" = "Coupons";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "acR-Ja-ePj"; */
+"acR-Ja-ePj.text" = "Name";
+
+/* Class = "UIButton"; normalTitle = "Done!"; ObjectID = "bmy-g6-clk"; */
+"bmy-g6-clk.normalTitle" = "Done!";
+
+/* Class = "UIButton"; normalTitle = "+"; ObjectID = "c3w-uF-qHS"; */
+"c3w-uF-qHS.normalTitle" = "+";
+
+/* Class = "UILabel"; text = "Country Fair"; ObjectID = "ccG-4V-LXc"; */
+"ccG-4V-LXc.text" = "Country Fair";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "dcs-mL-BNr"; */
+"dcs-mL-BNr.text" = "0";
+
+/* Class = "UILabel"; text = "Remaining Value"; ObjectID = "e7M-Kw-OLk"; */
+"e7M-Kw-OLk.text" = "Remaining Value";
+
+/* Class = "UILabel"; text = "Error"; ObjectID = "eJT-2B-eYq"; */
+"eJT-2B-eYq.text" = "Error";
+
+/* Class = "UIButton"; normalTitle = "Can we use your Camera?"; ObjectID = "gKH-Nh-VOX"; */
+"gKH-Nh-VOX.normalTitle" = "Can we use your Camera?";
+
+/* Class = "UILabel"; text = "from photos folder here"; ObjectID = "hoO-4O-7a7"; */
+"hoO-4O-7a7.text" = "from photos folder here";
+
+/* Class = "UILabel"; text = "   Gift Cards"; ObjectID = "id4-yP-l7f"; */
+"id4-yP-l7f.text" = "   Gift Cards";
+
+/* Class = "UIButton"; normalTitle = "Can we notify/alert you?"; ObjectID = "ipW-jb-JUW"; */
+"ipW-jb-JUW.normalTitle" = "Can we notify/alert you?";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "kP2-ad-21j"; */
+"kP2-ad-21j.text" = "0.00";
+
+/* Class = "UILabel"; text = "show on \"shake\""; ObjectID = "oHE-eL-89K"; */
+"oHE-eL-89K.text" = "show on \"shake\"";
+
+/* Class = "UIButton"; normalTitle = "REDEEM"; ObjectID = "oS7-qp-0AM"; */
+"oS7-qp-0AM.normalTitle" = "REDEEM";
+
+/* Class = "UILabel"; text = "If YES then have them \"shake\" their phone scan a QRCode OR scan the QRCode on their social network post!"; ObjectID = "pMF-BM-eXk"; */
+"pMF-BM-eXk.text" = "If YES then have them \"shake\" their phone scan a QRCode OR scan the QRCode on their social network post!";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "qZL-pH-cyz"; */
+"qZL-pH-cyz.text" = "0%";
+
+/* Class = "UILabel"; text = "We need you to help us enable some of your phone’s features in order to use this app, otherwise it may not work properly."; ObjectID = "sbc-i8-4Ii"; */
+"sbc-i8-4Ii.text" = "We need you to help us enable some of your phone’s features in order to use this app, otherwise it may not work properly.";
+
+/* Class = "UILabel"; text = "0%"; ObjectID = "tVz-Px-amB"; */
+"tVz-Px-amB.text" = "0%";
+
+/* Class = "UILabel"; text = "$100.00"; ObjectID = "vMQ-gQ-jlg"; */
+"vMQ-gQ-jlg.text" = "$100.00";
+
+/* Class = "UILabel"; text = "social image"; ObjectID = "wgb-uP-msS"; */
+"wgb-uP-msS.text" = "social image";
+
+/* Class = "UILabel"; text = "You will see this message when clicking the button below. Choose OK."; ObjectID = "yDT-zw-emg"; */
+"yDT-zw-emg.text" = "You will see this message when clicking the button below. Choose OK.";
+
+/* Class = "UILabel"; text = "description"; ObjectID = "yU8-eI-Bli"; */
+"yU8-eI-Bli.text" = "description";
+
+/* Class = "UILabel"; text = "Redeem to Gif Card"; ObjectID = "zc2-vo-ATA"; */
+"zc2-vo-ATA.text" = "Redeem to Gif Card";

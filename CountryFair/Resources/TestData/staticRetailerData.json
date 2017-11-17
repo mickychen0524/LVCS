@@ -1,0 +1,147 @@
+{
+    "correlationRefId": "a5ac1288-e6eb-4070-8028-8890e2c895f6",
+    "createdOn": "2016-10-12T15:40:07.9709441+00:00",
+    "error": null,
+    "data": [
+             {
+             "retailerRefId": "6aa145e1-7bb4-47e6-80ac-d64fa0ed601b",
+             "brand": null,
+             "logoUrl": "http://dev2lngmstr.blob.core.windows.net/media/acmemartlogo.png",
+             "beacons": [
+             
+             ],
+             "brandRefId": null,
+             "retailerName": "7-Eleven Store",
+             "addressLine1": "8250 Lake City Way Ne",
+             "addressLine2": null,
+             "addressCity": "Seattle",
+             "addressStateProvince": "WA",
+             "addressCounty": "King County",
+             "addressZipPostalCode": "98115-4410",
+             "addressCountryCode": "US",
+             "addressLocation": {
+             "type": "Point",
+             "coordinates": [
+                             -122.3096054,
+                             47.6889687
+                             ]
+             },
+             "addressMailing": null,
+             "geoPointMailing": null,
+             "addressPhysical": null,
+             "geoPointPhysical": null
+             },
+             {
+             "retailerRefId": "0b726664-dada-4e8c-8e54-ecc511b240df",
+             "brand": null,
+             "logoUrl": "http://dev2lngmstr.blob.core.windows.net/media/acmemartlogo.png",
+             "beacons": [
+             
+             ],
+             "brandRefId": null,
+             "retailerName": "7-Eleven Store",
+             "addressLine1": "9126 Roosevelt Way Ne",
+             "addressLine2": null,
+             "addressCity": "Seattle",
+             "addressStateProvince": "WA",
+             "addressCounty": "King County",
+             "addressZipPostalCode": "98115-2840",
+             "addressCountryCode": "US",
+             "addressLocation": {
+             "type": "Point",
+             "coordinates": [
+                             -122.3171508,
+                             47.6956282
+                             ]
+             },
+             "addressMailing": null,
+             "geoPointMailing": null,
+             "addressPhysical": null,
+             "geoPointPhysical": null
+             },
+             {
+             "retailerRefId": "95474602-15c5-40a9-9c5f-375768fba622",
+             "brand": null,
+             "logoUrl": "http://dev2lngmstr.blob.core.windows.net/media/acmemartlogo.png",
+             "beacons": [
+             
+             ],
+             "brandRefId": null,
+             "retailerName": "7-Eleven Store",
+             "addressLine1": "13417 Roosevelt Way N",
+             "addressLine2": null,
+             "addressCity": "Seattle",
+             "addressStateProvince": "WA",
+             "addressCounty": "King County",
+             "addressZipPostalCode": "98133-7842",
+             "addressCountryCode": "US",
+             "addressLocation": {
+             "type": "Point",
+             "coordinates": [
+                             -122.3300085,
+                             47.726302
+                             ]
+             },
+             "addressMailing": null,
+             "geoPointMailing": null,
+             "addressPhysical": null,
+             "geoPointPhysical": null
+             },
+             {
+             "retailerRefId": "d68ea20c-5cbb-4879-b0b5-1d7ace7d23f5",
+             "brand": null,
+             "logoUrl": "http://dev2lngmstr.blob.core.windows.net/media/acmemartlogo.png",
+             "beacons": [
+             
+             ],
+             "brandRefId": null,
+             "retailerName": "7-Eleven Store",
+             "addressLine1": "7215 Sandpoint Way Ne",
+             "addressLine2": null,
+             "addressCity": "Seattle",
+             "addressStateProvince": "WA",
+             "addressCounty": "King County",
+             "addressZipPostalCode": "98115-6323",
+             "addressCountryCode": "US",
+             "addressLocation": {
+             "type": "Point",
+             "coordinates": [
+                             -122.2640797,
+                             47.6813255
+                             ]
+             },
+             "addressMailing": null,
+             "geoPointMailing": null,
+             "addressPhysical": null,
+             "geoPointPhysical": null
+             },
+             {
+             "retailerRefId": "d68ea20c-5cbb-4879-b0b5-1d7ace7d23f7",
+             "brand": null,
+             "logoUrl": "http://dev2lngmstr.blob.core.windows.net/media/acmemartlogo.png",
+             "beacons": [
+             
+             ],
+             "brandRefId": null,
+             "retailerName": "my template",
+             "addressLine1": "ulaanbaatar",
+             "addressLine2": null,
+             "addressCity": "Ulaanbaatar",
+             "addressStateProvince": "UB",
+             "addressCounty": "MN",
+             "addressZipPostalCode": "10036",
+             "addressCountryCode": "MN",
+             "addressLocation": {
+             "type": "Point",
+             "coordinates": [
+                             106.9115647,
+                             47.9120385
+                             ]
+             },
+             "addressMailing": null,
+             "geoPointMailing": null,
+             "addressPhysical": null,
+             "geoPointPhysical": null
+             }
+             ]
+}

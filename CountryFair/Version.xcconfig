@@ -1,0 +1,13 @@
+//
+//  Version.xcconfig
+//  CountryFair
+//
+//  Created by Russell Jackson on 6/28/17.
+//  Copyright © 2017 MyMac. All rights reserved.
+//
+VERSION = 1.0
+BUILD_NUMBER = 150
+DEVELOPMENT_TEAM = "Lazlo 326, LLC"
+PRODUCT_BUNDLE_IDENTIFIER = com.playlazlo.player.countryfair.dev
+CODE_SIGN_IDENTITY = iPhone Distribution
+PROVISIONING_PROFILE = 8ead6063-a0ef-431a-a87f-97728c20c6a2

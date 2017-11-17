@@ -1,0 +1,11 @@
+framework module FSDK {
+  umbrella header "FSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module FSDK.Swift {
+    header "FSDK-Swift.h"
+    requires objc
+}

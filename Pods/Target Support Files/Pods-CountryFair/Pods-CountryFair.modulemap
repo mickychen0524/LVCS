@@ -1,0 +1,6 @@
+framework module Pods_CountryFair {
+  umbrella header "Pods-CountryFair-umbrella.h"
+
+  export *
+  module * { export * }
+}
